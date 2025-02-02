@@ -79,3 +79,23 @@ public class HelloWorld {
 ```sh
 javac HelloWorld.java
 java HelloWorld
+
+---
+
+## Section 4: Install Notepad++
+
+### Steps to Install Notepad++
+1. Download Notepad++ from [Notepad++ official website](https://notepad-plus-plus.org/downloads/).
+2. Run the installer and follow the instructions.
+3. Open Notepad++ and verify the installation.
+
+---
+
+## Section 5: Install Visual Studio Code
+
+### Steps to Install VS Code
+1. Download VS Code from [Visual Studio Code official website](https://code.visualstudio.com/Download).
+2. Run the installer and follow the instructions.
+3. Open VS Code and verify the installation.
+4. Install extensions for better development experience (e.g., JavaScript, Node.js, Java, Git support).
+
