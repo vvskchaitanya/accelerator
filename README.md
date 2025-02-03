@@ -1,5 +1,5 @@
 # Accelerator
-Accelerate the process of learning full stack, quick setup of tools required for fullstack development
+Accelerate helps newbies in the process of learning full stack development, quick setup of tools essential for fullstack development
 
 ## Section 1: Install Node.js
 
