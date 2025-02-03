@@ -100,3 +100,19 @@ java HelloWorld
 3. Open VS Code and verify the installation.
 4. Install extensions for better development experience (e.g., JavaScript, Node.js, Java, Git support).
 
+## Section 6: First Fullstack application
+
+### Using AI - ChatGPT
+1. Create folder "my-fullstack-application" and create two files index.html and index.js
+2. Go to ChatGPT and give prompt: "Create Node JS App which uses file module to read the index.html from same directory and uses http module to serve the html content on the port 9999"
+3. Copy the javascript code provided by ChatGPT into index.js file
+4. Again go to ChatGPT and give prompt: "Create good looking web page with title My First Full stack Webpage using bootstrap 5 to demonstrate different sections of website to contain header section to display site name and navigation menu, left avigation section, main section, footer section and right advertisement section"
+5. Copy complete html code provided by ChatGPT into index.html
+6. Run the appliation using below node command
+
+```sh
+node index.js
+```
+
+7. Navigate to http://localhost:8080 in your browser
+8. Great Job! We have successfully created our first fullstack app using HTML and Node JS
