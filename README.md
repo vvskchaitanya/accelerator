@@ -61,6 +61,8 @@ node index.js
 
 ### Great Job! We have successfully created our first fullstack app using HTML and Node JS
 
+---
+
 ## Section 4: Install Git
 
 ### Steps to Install Git Bash
