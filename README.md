@@ -15,7 +15,7 @@ Accelerate the process of learning full stack, quick setup of tools required for
 ### Examples of Git Commands
 #### Clone a Repository
 ```sh
-git clone https://github.com/example/repo.git
+git clone https://github.com/vvskchaitanya/accelerator.git
 ```
 
 #### Commit and Push Changes
